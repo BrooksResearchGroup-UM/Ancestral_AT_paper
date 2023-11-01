@@ -1,0 +1,6 @@
+Job Number	24580
+Original EST Job Number	91625/102579 (Original EST Dataset | Original SSN Download)
+Time Started -- Finished	2/1 02:35 PM -- 2/1 02:39 PM
+Uploaded Filename	102579_AfoD_Blast500_UniRef90_Fragments_full_ssn.xgmml.zip
+Neighborhood Size	10
+Input % Co-Occurrence	20
