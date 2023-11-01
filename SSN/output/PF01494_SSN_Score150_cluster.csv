@@ -1,0 +1,178 @@
+,UniProt ID,Cluster Number,Cluster Color,Taxonomy ID,Species
+0,A0A0F0IIL0,1,#FF0000,1403190,Aspergillus parasiticus (strain ATCC 56775 / NRRL 5862 / SRRC 143 / SU-1)
+1,A0A0F8VIX1,1,#FF0000,308745,Aspergillus rambellii.
+2,A0A0L1JI44,1,#FF0000,1509407,Aspergillus nomiae NRRL 13137.
+3,A0A0U5GZ31,1,#FF0000,454130,Aspergillus calidoustus.
+4,A0A1L9PH95,1,#FF0000,1036611,Aspergillus versicolor CBS 583.65.
+5,A0A1L9TQ57,1,#FF0000,1036612,Aspergillus sydowii CBS 593.65.
+6,A0A1S9DEG1,1,#FF0000,5062,Aspergillus oryzae
+7,A0A1U8QTJ8,1,#FF0000,227321,Emericella nidulans (strain FGSC A4 / ATCC 38163 / CBS 112.46 / NRRL 194 /M139)
+8,A0A2G7FQ55,1,#FF0000,656916,Aspergillus arachidicola.
+9,A0A2I1CS75,1,#FF0000,1392248,Aspergillus campestris IBT 28561.
+10,A0A2I2FA92,1,#FF0000,41067,Aspergillus candidus.
+11,A0A2I2GFH4,1,#FF0000,1392250,Aspergillus steynii IBT 23096.
+12,A0A2J5I6P1,1,#FF0000,482145,Aspergillus taichungensis.
+13,A0A2P2HVA1,1,#FF0000,1392242,Aspergillus flavus (strain ATCC MYA-384 / AF70)
+14,A0A2T5M0L3,1,#FF0000,1392256,Aspergillus ochraceoroseus IBT 24754.
+15,A0A3M7K3N8,1,#FF0000,5059,Aspergillus flavus.
+16,A0A5M3ZAB2,1,#FF0000,33178,Aspergillus terreus.
+17,A0A5N6DRE9,1,#FF0000,5067,Aspergillus parasiticus.
+18,A0A5N6FAT9,1,#FF0000,986946,Aspergillus novoparasiticus.
+19,A0A5N6G5Y9,1,#FF0000,209559,Petromyces alliaceus
+20,A0A5N6H562,1,#FF0000,5059,Aspergillus flavus.
+21,A0A5N6IBM5,1,#FF0000,1506151,Aspergillus pseudonomiae.
+22,A0A5N6J5H8,1,#FF0000,656917,Aspergillus minisclerotigenes.
+23,A0A5N6T608,1,#FF0000,132259,Aspergillus pseudotamarii.
+24,A0A5N6U3X4,1,#FF0000,36643,Aspergillus avenaceus.
+25,A0A5N6V8S0,1,#FF0000,41984,Aspergillus tamarii.
+26,A0A5N6VWR8,1,#FF0000,1034304,Aspergillus transmontanensis.
+27,A0A5N6WXH7,1,#FF0000,1034303,Aspergillus sergii.
+28,A0A5N6Y7D7,1,#FF0000,656916,Aspergillus arachidicola.
+29,A0A5N6ZH75,1,#FF0000,138285,Aspergillus coremiiformis.
+30,A0A5N7AJY0,1,#FF0000,61420,Aspergillus caelatus.
+31,A0A5N7CN05,1,#FF0000,209559,Petromyces alliaceus
+32,A0A5N7D8W9,1,#FF0000,1506151,Aspergillus pseudonomiae.
+33,A0A5N7EA81,1,#FF0000,1825620,Aspergillus pseudocaelatus.
+34,A0A7G5JM20,1,#FF0000,332952,Aspergillus flavus (strain ATCC 200026 / FGSC A1120 / IAM 13836 / NRRL 3357/ JCM 12722 / SRRC 167)
+35,A0A7U2R171,1,#FF0000,5059,Aspergillus flavus.
+36,A0A8H6ADN6,1,#FF0000,2508778,Aspergillus burnettii.
+37,B8NVJ7,1,#FF0000,332952,Aspergillus flavus (strain ATCC 200026 / FGSC A1120 / IAM 13836 / NRRL 3357/ JCM 12722 / SRRC 167)
+38,G5EAZ9,1,#FF0000,227321,Emericella nidulans (strain FGSC A4 / ATCC 38163 / CBS 112.46 / NRRL 194 /M139)
+39,I8U6M2,1,#FF0000,1160506,Aspergillus oryzae (strain 3.042)
+40,Q0CCB8,1,#FF0000,341663,Aspergillus terreus (strain NIH 2624 / FGSC A1156)
+41,Q2TXK3,1,#FF0000,510516,Aspergillus oryzae (strain ATCC 42149 / RIB 40)
+42,A0A093XK10,2,#0000FF,1077442,Talaromyces marneffei PM1.
+43,A0A1L9PY59,2,#0000FF,1036611,Aspergillus versicolor CBS 583.65.
+44,A0A1Q5Q6V5,2,#0000FF,1441469,Talaromyces atroroseus.
+45,A0A1Z1CE15,2,#0000FF,180999,Cladonia uncialis subsp. uncialis.
+46,A0A254U189,2,#0000FF,5061,Aspergillus niger.
+47,A0A2H3IER6,2,#0000FF,290292,Penicillium occitanis
+48,A0A319A1Z4,2,#0000FF,1450533,Aspergillus lacticoffeatus (strain CBS 101883)
+49,A0A319E3W8,2,#0000FF,1448320,Aspergillus ellipticus CBS 707.79.
+50,A0A364KVJ3,2,#0000FF,1196081,Talaromyces amestolkiae.
+51,A0A370BZG3,2,#0000FF,1353008,Aspergillus niger ATCC 13496.
+52,A0A370PH93,2,#0000FF,1353007,Aspergillus phoenicis ATCC 13157.
+53,A0A3F3PZT7,2,#0000FF,1341132,Aspergillus welwitschiae.
+54,A0A401KKN1,2,#0000FF,105351,Aspergillus awamori
+55,A0A420YEX2,2,#0000FF,177199,Coniochaeta pulveracea.
+56,A0A5M3YXN3,2,#0000FF,33178,Aspergillus terreus.
+57,A0A5N6TQ89,2,#0000FF,36643,Aspergillus avenaceus.
+58,A0A5N7AS00,2,#0000FF,1226010,Aspergillus bertholletiae.
+59,A0A698XKS2,2,#0000FF,128442,Talaromyces pinophilus
+60,A0A7C8L8A5,2,#0000FF,37727,Talaromyces marneffei
+61,A0A8H6FCJ2,2,#0000FF,560253,Letharia lupina.
+62,A2QTE7,2,#0000FF,425011,Aspergillus niger (strain CBS 513.88 / FGSC A1513)
+63,B6QKB1,2,#0000FF,441960,Talaromyces marneffei (strain ATCC 18224 / CBS 334.59 / QM 7333)
+64,B8LV27,2,#0000FF,441959,Talaromyces stipitatus (strain ATCC 10500 / CBS 375.48 / QM 6759 / NRRL1006)
+65,G3XMC2,2,#0000FF,380704,Aspergillus niger (strain ATCC 1015 / CBS 113.46 / FGSC A1144 / LSHB Ac4 /NCTC 3858a / NRRL 328 / USDA 3528.7)
+66,S3DQB9,2,#0000FF,1116229,Glarea lozoyensis (strain ATCC 20868 / MF5171)
+67,U1HR84,2,#0000FF,1263415,Endocarpon pusillum (strain Z07020 / HMAS-L-300199)
+68,A0A117E152,3,#FFA500,5061,Aspergillus niger.
+69,A0A146F8N5,3,#FFA500,1069201,Aspergillus kawachii
+70,A0A1L9N154,3,#FFA500,767770,Aspergillus tubingensis (strain CBS 134.48)
+71,A0A1L9TYM8,3,#FFA500,1036612,Aspergillus sydowii CBS 593.65.
+72,A0A1L9V1U7,3,#FFA500,767769,Aspergillus brasiliensis (strain CBS 101740 / IMI 381727 / IBT 21946)
+73,A0A1M3TVW7,3,#FFA500,1137211,Aspergillus luchuensis (strain CBS 106.47)
+74,A0A317WBR5,3,#FFA500,1448314,Aspergillus eucalypticola (strain CBS 122712 / IBT 29274)
+75,A0A318YTU0,3,#FFA500,1448310,Aspergillus neoniger (strain CBS 115656)
+76,A0A319AAG0,3,#FFA500,1450533,Aspergillus lacticoffeatus (strain CBS 101883)
+77,A0A319B433,3,#FFA500,1448311,Aspergillus vadensis (strain CBS 113365 / IMI 142717 / IBT 24658)
+78,A0A370BZU1,3,#FFA500,1353008,Aspergillus niger ATCC 13496.
+79,A0A370P9M5,3,#FFA500,1353007,Aspergillus phoenicis ATCC 13157.
+80,A0A3F3QAE4,3,#FFA500,1341132,Aspergillus welwitschiae.
+81,A0A3F3RTL0,3,#FFA500,5061,Aspergillus niger.
+82,A0A401KMN8,3,#FFA500,105351,Aspergillus awamori
+83,A0A505HUS4,3,#FFA500,5061,Aspergillus niger.
+84,A0A8G1VJA0,3,#FFA500,1448313,Aspergillus piperis CBS 112811.
+85,A0A8H3SW09,3,#FFA500,5068,Aspergillus tubingensis.
+86,A2QWH1,3,#FFA500,425011,Aspergillus niger (strain CBS 513.88 / FGSC A1513)
+87,G3YCY6,3,#FFA500,380704,Aspergillus niger (strain ATCC 1015 / CBS 113.46 / FGSC A1144 / LSHB Ac4 /NCTC 3858a / NRRL 328 / USDA 3528.7)
+88,G7XA69,3,#FFA500,1033177,Aspergillus kawachii (strain NBRC 4308)
+89,A0A100ISI9,4,#008000,5061,Aspergillus niger.
+90,A0A146FG10,4,#008000,1069201,Aspergillus kawachii
+91,A0A1L9NH47,4,#008000,767770,Aspergillus tubingensis (strain CBS 134.48)
+92,A0A1R3R8Y6,4,#008000,602072,Aspergillus carbonarius (strain ITEM 5010)
+93,A0A319DIW0,4,#008000,1448320,Aspergillus ellipticus CBS 707.79.
+94,A0A319E9L6,4,#008000,1448318,Aspergillus sclerotiicarbonarius (strain CBS 121057 / IBT 28362)
+95,A0A395GRE2,4,#008000,1448316,Aspergillus ibericus CBS 121593.
+96,A0A3F3RE16,4,#008000,5061,Aspergillus niger.
+97,A0A401KPH9,4,#008000,105351,Aspergillus awamori
+98,A0A505HZY4,4,#008000,5061,Aspergillus niger.
+99,A0A8G1VSZ2,4,#008000,1448313,Aspergillus piperis CBS 112811.
+100,A0A8H3SRV9,4,#008000,5068,Aspergillus tubingensis.
+101,A2QYP7,4,#008000,425011,Aspergillus niger (strain CBS 513.88 / FGSC A1513)
+102,G3XUL9,4,#008000,380704,Aspergillus niger (strain ATCC 1015 / CBS 113.46 / FGSC A1144 / LSHB Ac4 /NCTC 3858a / NRRL 328 / USDA 3528.7)
+103,G7XZR9,4,#008000,1033177,Aspergillus kawachii (strain NBRC 4308)
+104,A0A094GTA2,5,#FF00FF,1420915,Pseudogymnoascus sp. VKM F-4520
+105,A0A1V1T6Z8,5,#FF00FF,1813822,fungal sp. No.14919.
+106,A0A2T3A289,5,#FF00FF,2025994,Coniella lustricola.
+107,A0A3S4APY6,5,#FF00FF,2587410,Thermothielavioides terrestris.
+108,A0A439CSX5,5,#FF00FF,363999,Xylaria grammica.
+109,A0A4Q4TLS4,5,#FF00FF,2211647,Monosporascus sp. GIB2.
+110,A0A4Q4VRN4,5,#FF00FF,2211645,Monosporascus sp. MG133.
+111,A0A4Q4VUG7,5,#FF00FF,2211646,Monosporascus sp. MC13-8B.
+112,A0A7G6J4F9,5,#FF00FF,63214,Hypoxylon fragiforme.
+113,A0A7R7VV20,5,#FF00FF,182096,Aspergillus chevalieri
+114,G2R8V2,5,#FF00FF,578455,Thermothielavioides terrestris (strain ATCC 38088 / NRRL 8126)
+115,A0A0J0D7B1,6,#00FFFF,5127,Gibberella fujikuroi
+116,A0A1L7U7D6,6,#00FFFF,192010,Fusarium mangiferae
+117,A0A1L7VX77,6,#00FFFF,1227346,Fusarium proliferatum (strain ET1)
+118,A0A2H3SHV2,6,#00FFFF,5127,Gibberella fujikuroi
+119,A0A365NBN2,6,#00FFFF,948311,Gibberella intermedia
+120,A0A420TJD3,6,#00FFFF,948311,Gibberella intermedia
+121,A0A8J5NK68,6,#00FFFF,485398,Fusarium oxysporum f. sp. rapae.
+122,S0ENZ1,6,#00FFFF,1279085,Gibberella fujikuroi (strain CBS 195.34 / IMI 58289 / NRRL A-6831)
+123,A0A094FAK3,7,#FFC0CB,1420912,Pseudogymnoascus sp. VKM F-103.
+124,A0A094HVL3,7,#FFC0CB,1420914,Pseudogymnoascus sp. VKM F-4519
+125,A0A0C3GS17,7,#FFC0CB,913774,Oidiodendron maius Zn.
+126,A0A1B8D0A4,7,#FFC0CB,1622150,Pseudogymnoascus sp. 24MN13.
+127,A0A1B8EV38,7,#FFC0CB,1622149,Pseudogymnoascus sp. 05NY08.
+128,A0A2P2SYA1,7,#FFC0CB,342668,Pseudogymnoascus verrucosus.
+129,A0A397I4R6,7,#FFC0CB,1245748,Aspergillus turcosus.
+130,A0A421CTW4,7,#FFC0CB,1245748,Aspergillus turcosus.
+131,A0A1L9WVI9,8,#FF69B4,690307,Aspergillus aculeatus (strain ATCC 16872 / CBS 172.66 / WB 5094)
+132,A0A2V5GZ58,8,#FF69B4,1450538,Aspergillus violaceofuscus (strain CBS 115571)
+133,A0A2V5JB45,8,#FF69B4,1450541,Aspergillus indologenus CBS 114.80.
+134,A0A319CQV0,8,#FF69B4,1448315,Aspergillus uvarum CBS 121591.
+135,A0A395HI18,8,#FF69B4,1450537,Aspergillus homomorphus (strain CBS 101889)
+136,A0A8G1W0L0,8,#FF69B4,1448319,Aspergillus fijiensis CBS 313.89.
+137,A0A8T8WQT6,8,#FF69B4,1448312,Aspergillus japonicus CBS 114.51.
+138,A0A135LJ57,9,#808000,5078,Penicillium patulum
+139,A0A1F5LK35,9,#808000,1835702,Penicillium arizonense.
+140,A0A1T3CA88,9,#808000,1491466,Trichoderma guizhouense.
+141,A0A2K0U222,9,#808000,5544,Trichoderma harzianum
+142,A0A2N1LJS1,9,#808000,5544,Trichoderma harzianum
+143,A0A2T3ZTR1,9,#808000,983964,Trichoderma harzianum CBS 226.95.
+144,A0A8G0PDP1,9,#808000,1491479,Trichoderma simmonsii.
+145,A0A094B1B9,10,#FA8072,1420907,Pseudogymnoascus sp. VKM F-4513
+146,A0A176ZWY1,10,#FA8072,655981,Pseudogymnoascus destructans.
+147,A0A2V1D7E1,10,#FA8072,97972,Periconia macrospinosa.
+148,A0A3D8QAW6,10,#FA8072,1849047,Coleophoma cylindrospora.
+149,A0A3M7MKD3,10,#FA8072,2249419,Chaetothyriales sp. CBS 132003.
+150,L8FS31,10,#FA8072,658429,Pseudogymnoascus destructans (strain ATCC MYA-4855 / 20631-21)
+151,A0A423VWW8,11,#EE82EE,252740,Valsa sordida.
+152,A0A7T6XSB9,11,#EE82EE,36651,Penicillium digitatum
+153,K9FCC0,11,#EE82EE,1170229,Penicillium digitatum (strain PHI26 / CECT 20796)
+154,K9FWA6,11,#EE82EE,1170230,Penicillium digitatum (strain Pd1 / CECT 20795)
+155,A0A1Y2VRI8,12,#006400,1001833,Hypoxylon sp. CI-4A.
+156,A0A446BDX5,12,#006400,2587410,Thermothielavioides terrestris.
+157,G2QX49,12,#006400,578455,Thermothielavioides terrestris (strain ATCC 38088 / NRRL 8126)
+158,Q2GPT3,12,#006400,306901,Chaetomium globosum (strain ATCC 6205 / CBS 148.51 / DSM 1962 / NBRC 6347 /NRRL 1970)
+159,A0A8H6J1J6,13,#00FF00,2175907,Colletotrichum sojae.
+160,A0A8H6JD05,13,#00FF00,2175906,Colletotrichum plurivorum.
+161,A0A8H6N9V1,13,#00FF00,2175873,Colletotrichum musicola.
+162,A0A317ACD7,14,#B259B2,45151,Pyrenophora tritici-repentis.
+163,K2QNA0,14,#B259B2,1126212,Macrophomina phaseolina (strain MS6)
+164,R1GMX8,14,#B259B2,1287680,Botryosphaeria parva (strain UCR-NP2)
+165,A0A093Y171,15,#003366,1437433,Pseudogymnoascus sp. VKM F-3557.
+166,A0A093YMD6,15,#003366,1391699,Pseudogymnoascus sp. VKM F-3808.
+167,A0A0U1M576,16,#7FFFBF,28573,Talaromyces islandicus
+168,A0A7H8QZ17,16,#7FFFBF,121627,Talaromyces rugulosus.
+169,A0A6M7Z3Q6,17,#8000FF,660027,Fusarium oxysporum Fo47.
+170,W9JDV3,17,#8000FF,660027,Fusarium oxysporum Fo47.
+171,A0A194W0Y1,18,#B25900,105487,Valsa mali.
+172,A0A423W159,18,#B25900,356882,Valsa malicola.
+173,A0A318Z8J7,19,#592C00,1450539,Aspergillus saccharolyticus JOP 1030-1.
+174,A0A319E6Y2,19,#592C00,1448315,Aspergillus uvarum CBS 121591.
+175,A0A084B9Z5,20,#800000,1280523,Stachybotrys chartarum (strain CBS 109288 / IBT 7711)
+176,M7TLR9,20,#800000,1287681,Eutypa lata (strain UCR-EL1)
