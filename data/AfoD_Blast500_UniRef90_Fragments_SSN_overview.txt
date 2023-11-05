@@ -1,0 +1,23 @@
+Analysis Job Number	102579
+Network Name	AfoD_Blast500_UniRef90_Fragments
+Alignment Score	80
+Minimum Length	300
+Maximum Length	600
+Total Number of Sequences After Filtering	463
+EST Job Number	91625 (Original Dataset)
+Time Started -- Finished	2/1 03:06 AM -- 2/1 07:27 AM
+Database Version	UniProt: 2022-04 / InterPro: 91
+Input Option	Sequence BLAST (Option A)
+Job Name	AfoD_Blast500_UniRef90_Fragments
+E-Value for UniProt BLAST Retrieval	5
+E-Value for SSN Edge Calculation	5
+Sequence Submitted for BLAST	MADHEQEQEPLSIAIIGGGIIGLMTALGLLHRNIGKVTIYERASAWPDIGAAFAFTGIARECMQRLDPAILSALSKVAQRNPHDKVRYWDGFHPKSKEEAQDPEKSVLFEIEEKNMAYWACLRGVFHAEMARLLPERVVRFGKRLVAYEDGGDQKVVLRFEDGEVEEADIVIACDGVHSTARRVLLGAEHPAANARYSRKAVYRALVPMPAAIDALGTEKAHVQIAHCGPDAHIVSFPVNNAQIYNVFLFTHDSNEWTHGHTMTVPSSKEEILSAVENWGPHIKELASLFPEQLSKYAIFDQADHPLPYYAAGRVALAGDAAHASSPFHGAGACMGVEDALVLAELLEKVQNGSAFKEKKSNIELALKTYSDVRIERSQWLVKSSREMGDLYEWRYEDIGGDGVKCKAEWERRSRVIWDFDVQGMVDQAREAYERAVVKV
+BLAST Database	UniRef90
+Maximum Number of Retrieved Sequences	500
+Actual Number of Retrieved Sequences	499
+Taxonomy Categories:	Fungi
+Exclude Fragments	Yes
+Total Number of Sequences in Dataset	500 (includes sequence submitted for BLAST)
+Total Number of Edges	124,750
+Number of Unique Sequences	499
+Convergence Ratio?	1.000
